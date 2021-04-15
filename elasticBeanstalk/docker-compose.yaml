@@ -1,0 +1,10 @@
+version: "3.8"
+services:
+  Backend:
+    image: "iqbalkurniawan/springboot-react:1"
+    ports:
+      - "80:8080"
+    restart: "always"
+
+      
+
