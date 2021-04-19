@@ -10,7 +10,6 @@ class DemoApplicationTests {
 
     @Test
     void contextLoads() {
-        Assertions.fail("dsadsa salah");
     }
 
 }
