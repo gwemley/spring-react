@@ -10,6 +10,7 @@ class DemoApplicationTests {
 
     @Test
     void contextLoads() {
+//        test failed
         Assertions.fail("test failed");
     }
 
