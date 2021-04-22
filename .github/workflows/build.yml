@@ -8,10 +8,10 @@ on:
 
 env:
   POSTGRESQL_VERSION: 13.1
-  POSTGRESQL_DB: amigos
+  POSTGRESQL_DB: amigoscode
   POSTGRESQL_USER: postgres
   POSTGRESQL_PASSWORD: password
-  JAVA_VERSION: 1.16
+  JAVA_VERSION: 1.15
 
 jobs:
   build:
